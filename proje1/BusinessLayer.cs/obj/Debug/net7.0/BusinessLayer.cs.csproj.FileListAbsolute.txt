@@ -1,0 +1,15 @@
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\bin\Debug\net7.0\BusinessLayer.cs.deps.json
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\bin\Debug\net7.0\BusinessLayer.cs.dll
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\bin\Debug\net7.0\BusinessLayer.cs.pdb
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\bin\Debug\net7.0\DataLayer.cs.dll
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\bin\Debug\net7.0\DataLayer.cs.pdb
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.AssemblyInfo.cs
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.csproj.CopyComplete
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.dll
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\refint\BusinessLayer.cs.dll
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\BusinessLayer.cs.pdb
+C:\Users\mm\source\repos\proje1\BusinessLayer.cs\obj\Debug\net7.0\ref\BusinessLayer.cs.dll

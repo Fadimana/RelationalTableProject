@@ -1,0 +1,14 @@
+C:\Users\mm\source\repos\proje1\DataLayer.cs\bin\Debug\net7.0\DataLayer.cs.deps.json
+C:\Users\mm\source\repos\proje1\DataLayer.cs\bin\Debug\net7.0\DataLayer.cs.runtimeconfig.json
+C:\Users\mm\source\repos\proje1\DataLayer.cs\bin\Debug\net7.0\DataLayer.cs.dll
+C:\Users\mm\source\repos\proje1\DataLayer.cs\bin\Debug\net7.0\DataLayer.cs.pdb
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.AssemblyInfo.cs
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.dll
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\refint\DataLayer.cs.dll
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.pdb
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\DataLayer.cs.genruntimeconfig.cache
+C:\Users\mm\source\repos\proje1\DataLayer.cs\obj\Debug\net7.0\ref\DataLayer.cs.dll
